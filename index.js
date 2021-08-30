@@ -5,10 +5,10 @@ const multiply = num1 * num2
 
 let random = Math.floor(Math.random() + 1)
 
-let num3 = 40
+let num3 = 44
 let num4 = 10
  
-let mod = num3 / num4
+let mod = num3 % num4
 
 
 let max = Math.max(1, 10, 15, 20)
